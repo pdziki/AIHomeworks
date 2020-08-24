@@ -1,3 +1,2 @@
 # AIHomeworks
-Artificial Intelligence Homework Assignments
-work in progress
+Artificial Intelligence Homework Assignments.  Work in progress
